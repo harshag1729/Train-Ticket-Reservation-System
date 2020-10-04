@@ -28,7 +28,7 @@
 		<div class="absolute">
       
         <input type="text" name="a" size="30" placeholder=" Enter name"><br>
-		<br>
+		<br><br>
 		<input type="text" name="a" size="30" placeholder=" Enter username"><br><br>
         <input type="text" name="c" size="30" placeholder="Enter email"><br><br>
         <input type="text" name="d" size="30" placeholder="Enter Phone Number"><br>
